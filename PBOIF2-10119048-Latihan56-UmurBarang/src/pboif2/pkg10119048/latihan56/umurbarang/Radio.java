@@ -8,6 +8,10 @@ package pboif2.pkg10119048.latihan56.umurbarang;
 /**
  *
  * @author SystemOs
+ * Nama      : Mochammad Faishal
+ * NIM       : 10119048
+ * Kelas     : IF2
+ * Deskripsi : Berisi Program Radio
  */
 public class Radio extends BarangAntik{
     private String name;

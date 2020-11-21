@@ -8,6 +8,10 @@ package pboif2.pkg10119048.latihan56.umurbarang;
 /**
  *
  * @author SystemOs
+ * Nama      : Mochammad Faishal
+ * NIM       : 10119048
+ * Kelas     : IF2
+ * Deskripsi : Menampilkan Program Umur barang antik
  */
 public class PBOIF210119048Latihan56UmurBarang {
 
